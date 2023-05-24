@@ -11,7 +11,7 @@ pip install Django==4.2
 
 python manage.py runserver
 
-### Покрытие тестами 93%
+### Покрытие тестами 86%
 
 pip install coverage
 
